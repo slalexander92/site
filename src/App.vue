@@ -32,9 +32,7 @@
 
 
 <style lang='scss' module>
-	// @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
-	// @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-		@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 	body {
 		background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
