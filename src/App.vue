@@ -78,10 +78,6 @@
 		&:not(:last-of-type) {
 			margin-right: 16px;
 		}
-
-		&:hover {
-			// background-color: green;
-		}
 	}
 
 	.wrapper {
